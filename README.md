@@ -1,2 +1,2 @@
-# Sample-Work
+# Sample Work
 Homeworks and Group projects
