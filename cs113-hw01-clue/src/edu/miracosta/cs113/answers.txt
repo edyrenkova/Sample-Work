@@ -1,0 +1,11 @@
+RandomClue:
+1. I was not patient enough to get the successful result for each of the tests. I only managed to get <=20 for second
+test once. The algorithm seems to be working bad for any of the test.
+2. Cons: The algorithm does not save any knowledge from previous attempts. There are so many combinations possible so
+pure guessing by choosing random is inefficient
+Pros: Simple, could work for smaller amount of possible combinations.
+
+MyClue:
+1.The result is always less than 20. Because starts from [1,1,1] and increments the way through, the first answer set
+is always guessed in one attempt, the second answer set - in 20 attempts and 3rd one varies.
+2. The algorithm is the most efficient solution to the problem possible. Efficiently tries all the possible combinations using the information given by tester.
